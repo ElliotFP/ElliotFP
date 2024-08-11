@@ -14,10 +14,3 @@ TLDR:
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElliotFP&&theme=duskfox&hide_border=true" alt="ElliotFP" />
   </a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elliot_fp" target="blank"><i align="center" class="devicon-twitter-original" alt="ElliotFP" height="40" width="60" ></i>
-</a>
-</a>
-</p>
